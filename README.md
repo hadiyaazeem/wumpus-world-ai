@@ -69,4 +69,4 @@ The agent performs the following steps:
   - Resolution Algorithm
 
 ## Project Structure
-livelink:https://vercel.com/hadiyaazeems-projects/wumpus-world-ai/6HTg8yXJJqyh6VKD5hAkyzXmmioH
+livelink:https://wumpus-world-qo9lnlcgo-hadiyaazeems-projects.vercel.app/
